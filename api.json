@@ -1,0 +1,86 @@
+{
+    "artistas": [
+      { 
+        "id": 1,
+        "nome": "Tony Carreira",
+        "foto": "https://images.megahits.pt/tony11678c2b_vertical.jpg",
+        "biografia": "Tony Carreira, nascido a 30 de dezembro de 1963, é um cantor português conhecido pelas suas canções de amor.",
+        "discografia": {
+           "albuns": [
+            "Não vou deixar de te amar (1991)",
+            "Boca Marota (1992)",
+            "Ai Destino (1995)",
+            "Adeus até um dia (1996)",
+            "Coração perdido (1997)",
+            "Sonhador Sonhador (1998)",
+            "Dois Corações (1999)",
+            "Português de alma (2000)",
+            "Adeus Amigo (2000)",
+            "Cantor de Sonhos (2001)",
+            "Vagabundo por Amor (2004)",
+            "O Homem que Sou (2008)",
+            "O Mesmo de Sempre (2010)",
+            "Essencial (2012)",
+            "Nos Fiançailles France/Portugal (2013)",
+            "Mon Fado (2013)",
+            "Cosas del Amor (2018)",
+            "Recomeçar (2021)"
+          ]
+        },
+        "spotify": "https://open.spotify.com/intl-pt/artist/6w7nHPNj2BIGTEbRrefVyu?si=PsRuqfGLSW-SYmLI0b7Qfg"
+      },
+      {
+        "id": 2,
+        "nome": "Toy",
+        "foto": "https://www.tv7dias.pt/wp-content/uploads/2022/09/Cópia-de-imagem-quadrada.jpg",
+        "biografia": "Toy, nascido a 10 de fevereiro de 1963, é um cantor português de música popular e romântica.",
+        "discografia": {
+         "albuns": [
+            "Mãe (1989)",
+            "Mais e mais (1990)",
+            "Anjo Vingador (1992)",
+            "Quem É, Quem É (1993)",
+            "Champanhe E Amor (1995)",
+            "Aguenta-te Com Esta (1997)",
+            "Estupidamente Apaixonado (1998)",
+            "Tu Foste o Grande Amor (2000)",
+            "Eternamente Tu (2002)",
+            "É só Sexo (2004)",
+            "Sou Portugês (2005)",
+            "Direto ao Coração (2007)",
+            "Recordações (2009)",
+            "Recordações 2 (2010)",
+            "Enquanto Estou Vivo (2013)",
+            "Coração Não Tem Idade (2017)",
+            "Toda a Noite (2018)"
+          ]
+        },
+        "spotify": "https://open.spotify.com/intl-pt/artist/3ggsRmBGV01RYdNu8pRWJd?si=GfVYUnNUSlaO6V6sgpUVVw"
+      },
+      {
+        "id": 3,
+        "nome": "Quim Barreiros",
+        "foto": "https://i.scdn.co/image/ab6761610000e5eb738e7fb70b541f71a1342883",
+        "biografia": "Quim Barreiros, nascido a 19 de junho de 1947, é um músico português conhecido pelas suas músicas humorísticas.",
+        "discografia": {
+          "albuns": [
+            "O Malhão Está na Moda (1986)",
+            "Bacalhau à Portuguesa (1993)",
+            "Tira a Mão Daí (1994)",
+            "Dá Cá Um Beijo (1997)",
+            "O Meu Cavalo a Galope (1999)",
+            "Comer, Comer (2000)",
+            "O Pai da Criança (2002)",
+            "Use Álcool (2005)",
+            "Elas Querem uma Queca (2006)",
+            "O Encosta a Tua ao Pé da Minha (2008)",
+            "O Brioche da Sofia (2010)",
+            "A Tua Mãe Tá no Facebook (2017)",
+            "Festa da Vida (2019)"
+          ]
+        },
+        "spotify": "https://open.spotify.com/intl-pt/artist/2oWYReGFzdcjvgUC5aizxv?si=QW1PiY3cT8GqK0EbINZkCg"
+      }
+    ]
+  }
+  

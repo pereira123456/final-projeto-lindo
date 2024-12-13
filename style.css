@@ -1,0 +1,126 @@
+/* Estilo Global */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* Fundo preto */
+    color: #ffffff; /* Texto branco */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+  }
+  
+  header {
+    background-color: #1db954; /* Verde Spotify */
+    color: #121212; /* Preto para contraste */
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 4px solid #1ed760; /* Verde mais claro */
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  main {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #181818; /* Fundo escuro */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+  }
+  
+  button {
+    padding: 12px 25px;
+    background-color: #1db954; /* Verde Spotify */
+    color: #121212; /* Preto */
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 15px auto;
+  }
+  
+  button:hover {
+    background-color: #1ed760; /* Verde mais claro */
+  }
+  
+  #selecionarArtista {
+    display: block;
+    text-align: center;
+  }
+  
+  #artistasList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+    text-align: center;
+  }
+  
+  #artistasList li {
+    padding: 15px;
+    background-color: #282828; /* Cinza escuro */
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    color: #ffffff; /* Texto branco */
+  }
+  
+  #artistasList li:hover {
+    background-color: #1ed760; /* Verde mais claro */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7);
+    color: #121212; /* Texto preto */
+  }
+  
+  #artistasList li:active {
+    background-color: #1db954; /* Verde Spotify */
+  }
+  
+  #artistaSelecionado {
+    display: none;
+    text-align: center;
+  }
+  
+  #detalhesArtista img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 4px solid #1db954; /* Verde Spotify */
+  }
+  
+  footer {
+    margin-top: 40px;
+    text-align: center;
+    color: #b3b3b3; /* Cinza claro */
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  #artistasList li a {
+    text-decoration: none; /* Remove o sublinhado */
+    color: #ffffff; /* Define a cor do texto como branco */
+    font-weight: bold; /* Torna o texto em negrito */
+    transition: color 0.3s ease; /* Animação suave para a mudança de cor */
+  }
+  
+  #artistasList li a:hover {
+    color: #1db954; /* Muda a cor para verde Spotify ao passar o mouse */
+  }
